@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="insert_user_name_error">Insira o nome do usuário.</string>
+    <string name="try_again_error">Padrão incorreto. Tente novamente!</string>
+    <string name="number_of_tries">Faltam %1$d tentativas para o final!</string>
+    <string name="no_patterns_found">Nenhum padrão cadastrado</string>
+    
+</resources>

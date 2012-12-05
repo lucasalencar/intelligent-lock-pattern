@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:layout_height="wrap_content" 
+    android:orientation="horizontal" 
+    android:layout_width="fill_parent">
+    
+    <TextView 
+        android:layout_height="35dp" 
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:textSize="20sp"
+        android:id="@+id/user_name_text" />
+    
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        android:textSize="20sp"
+        android:id="@+id/user_attempts" />
+    
+    <Button 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:textSize="20sp"
+        android:id="@+id/new_experiment_button"
+        android:text="@string/new_experiment"
+        android:onClick="newExperimentButtonAction"/>
+
+</LinearLayout>

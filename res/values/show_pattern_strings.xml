@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="back">Voltar</string>
+    <string name="choose_pattern">Escolha um dos padrões</string>
+    <string name="inserted_patterns">Padrões cadastrados</string>
+    <string name="no_more_patterns_to_experiment">Sem padrões para experimentar.</string>
+    
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="cancel">Cancelar</string>
+    <string name="draw_pattern_and_press_continue">Desenhe e pressione continuar</string>
+    <string name="connect_4dots_message">Padrão deve conter mais que 4 pontos</string>
+    <string name="pattern_record_message">Pressione continuar</string>
+    <string name="your_new_unlock_pattern_message">Este é seu novo padrão!</string>
+    <string name="release_finger_when_done_message">Retire o dedo quando terminar</string>
+    <string name="redraw_pattern_to_confirm_message">Redesenhe para confirmar</string>
+    <string name="confirm">Confirmar</string>
+    <string name="pattern_exist">Padrão já cadastrado</string>
+    
+</resources>

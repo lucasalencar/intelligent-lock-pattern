@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+	<TextView
+        android:text="@string/welcome"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginBottom="15dp"
+		android:layout_marginTop="15dp"
+		android:gravity="center_horizontal" />
+    
+    <LinearLayout 
+        android:layout_gravity="center"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+        
+        <Button
+            android:id="@+id/button_start_experiment"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content" 
+	        android:text="@string/start_experiment"
+	        android:onClick="gotoStartExperimentActivity"/>
+        
+        <Button 
+            android:id="@+id/button_insert_pattern"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:text="@string/insert_pattern"
+	        android:onClick="gotoInsertPatternActivity"/>
+        
+        <Button 
+            android:id="@+id/button_show_patterns"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:text="@string/show_pattern"
+	        android:onClick="gotoShowPatternsActivity"/>
+	    
+        <Button 
+            android:id="@+id/button_test_auth"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/test_auth"
+            android:onClick="gotoTestAuthActivity"/>
+    </LinearLayout>
+
+</LinearLayout>

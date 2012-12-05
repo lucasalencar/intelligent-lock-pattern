@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="select_user_or_create_a_new_one">Selecione ou crie um usuário</string>
+    <string name="user_name">Nome do usuário</string>
+    <string name="continue_to_next">Continuar</string>
+    <string name="new_experiment">+</string>
+    <string name="user_exist">Usuário já existe</string>
+    
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainMenuActivity!</string>
+    <string name="app_name">Intelligent Lock Pattern</string>
+    
+    <string name="titlePrefs">Preferências</string>
+    <string name="export_db">Exportar DB</string>
+    
+    <string name="export_db_executing">Executando exportação...</string>
+    <string name="export_db_success">Exportação foi um sucesso!</string>
+    <string name="export_db_fail">Exportação foi um fracasso!</string>
+
+</resources>

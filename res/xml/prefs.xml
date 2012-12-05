@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <CheckBoxPreference android:summary="@string/admin_mode_description" android:title="@string/admin_mode" android:key="admin_mode" android:defaultValue="false"/>
+    
+
+</PreferenceScreen>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="admin_mode">Modo Cientista</string>
+    <string name="admin_mode_description">Mostra opções que apenas administradores podem acessar.</string>
+    <string name="dropbox_service">Serviço Dropbox</string>
+    <string name="dropbox_service_description">Inicia ou pausa o serviço de envio do banco de dados para o Dropbox.</string>
+    <string name="dropbox_tokens">Dropbox Tokens</string>
+    <string name="dropbox_tokens_description">Tokens utilizados para autenticação no Dropbox.</string>
+    
+</resources>
