@@ -19,6 +19,6 @@ It was developed using the [Android 2.3.3 SDK](http://developer.android.com/) wi
 Some of the functionalities present on the application is collection of the users' characteristics and an activity where you can test the network trained with the samples of one user, using the verification through behavioral biometrics.
 
 The others sub projects:
-	* ILP Models Generator
-	* ILP Network Models
-	* ILP Network Training
+*	[ILP Models Generator](https://github.com/lucasandre/ilp-models-generator)
+*	[ILP Network Models](https://github.com/lucasandre/ilp-network-models)
+*	[ILP Network Training](https://github.com/lucasandre/ilp-network-training)
